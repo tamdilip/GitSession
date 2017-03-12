@@ -8,6 +8,7 @@ public class GitDemoSessionApplication {
 //Hello
 	//Stash 
 //Change from github
+  //From SGit
 	public static void main(String[] args) {
 		SpringApplication.run(GitDemoSessionApplication.class, args);
 	}
