@@ -8,6 +8,6 @@ public class GitDemoSessionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitDemoSessionApplication.class, args);
-		System.out.println("Test1 Added");
+		System.out.println("Test Added");
 	}
 }
