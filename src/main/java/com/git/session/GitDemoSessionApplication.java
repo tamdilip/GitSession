@@ -6,9 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitDemoSessionApplication {
 //Hello
-	//Stash 
-//Change from github
-  //From SGit
+//Fixed
 	public static void main(String[] args) {
 		SpringApplication.run(GitDemoSessionApplication.class, args);
 	}
