@@ -7,11 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitDemoSessionApplication {
 //Hello
 //TestF1
-
 	public static void main(String[] args) {
 		SpringApplication.run(GitDemoSessionApplication.class, args);
-
-		if(true)
 		System.out.println("Test1 Added");
 		System.out.println("Test1 Added");
 	}
