@@ -10,6 +10,7 @@ public class GitDemoSessionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitDemoSessionApplication.class, args);
+		if(true)
 		System.out.println("Test Added");
 	}
 }
