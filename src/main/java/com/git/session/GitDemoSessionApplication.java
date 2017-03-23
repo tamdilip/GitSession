@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GitDemoSessionApplication {
-//TestF1
 //Fixed
 	public static void main(String[] args) {
 		SpringApplication.run(GitDemoSessionApplication.class, args);
