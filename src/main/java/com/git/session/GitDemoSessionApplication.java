@@ -13,6 +13,5 @@ public class GitDemoSessionApplication {
 
 		if(true)
 		System.out.println("Test1 Added");
-		System.out.println("Test1 Added");
 	}
 }
